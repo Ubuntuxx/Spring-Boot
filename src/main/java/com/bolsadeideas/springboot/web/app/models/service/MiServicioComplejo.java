@@ -1,4 +1,4 @@
-package com.bolsadeideas.springboot.web.app;
+package com.bolsadeideas.springboot.web.app.models.service;
 
 import com.bolsadeideas.springboot.web.app.models.service.IServicio;
 import org.springframework.context.annotation.Primary;
